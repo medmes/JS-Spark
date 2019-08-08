@@ -37,7 +37,7 @@ No need to setup expensive cluster. The setup takes 5 min and you are good to go
 
 * Use as Big data analytics. Connect to Hadoop HDFS and process even terabytes of data.
 
-* Use to safely transfer huge amount of data to remote computers.
+* Use to safely transfer huge amount of data to remote computers .
 
 * Use as CDN ... Today most websites runs slower with more clients use them.
 But using JSpark you can totally reverse this trend. Build websites that run FASTER the more people use them
